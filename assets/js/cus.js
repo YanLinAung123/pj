@@ -1,1 +1,3 @@
-let hi="hello"
+const app = () => {
+    console.log("app")
+}
